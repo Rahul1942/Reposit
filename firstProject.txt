@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B431-C80C
+
+ Directory of C:\Users\Lenovo\Downloads\SampleGit
+
+31-08-2022  12:54    <DIR>          .
+31-08-2022  12:53    <DIR>          ..
+31-08-2022  12:54                 0 firstProject.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  116,869,390,336 bytes free
